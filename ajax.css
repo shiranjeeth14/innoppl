@@ -1,0 +1,32 @@
+.container-fluid{
+    width: 500px;
+    background-color: grey;
+    border-radius: 10px;
+    margin-top:100px ;
+}
+.but{
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    margin-left: 200px;
+    font-size: 15px;
+    color: white;
+    background-color: black;
+}
+
+.h{
+    padding: 10px;
+    padding-left: 100px;
+}
+p{
+    color: red;
+}
+
+.valid{
+    color: green;
+}
+
+
+.invalid{
+    color:red;
+}
